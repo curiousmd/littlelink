@@ -38,6 +38,13 @@
 	--button-border:1px solid #ffffff;
 }
 
+/* Avatalk */
+.button.button-avatalk {
+	--button-text:#ffffff;
+	--button-background:#11698f;
+	--button-border:1px solid #11698f;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
